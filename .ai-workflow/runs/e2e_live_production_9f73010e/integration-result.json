@@ -1,0 +1,20 @@
+{
+  "run_id": "e2e_live_production_9f73010e",
+  "stage": "production_integration",
+  "status": "SUCCEEDED",
+  "base_revision": "7bba750911ac42537267cb6ceb84c4c678e08d73",
+  "integration_revision": "db2b54e",
+  "units": [
+    {"unit_id":"production-proof-a","commit":"d0484f3ab2d53d3c1c4ed0c81dd2b9c798619241","status":"SUCCEEDED","blocking_count":0},
+    {"unit_id":"production-proof-b","commit":"2deece2ca896eebb8c168fc699e589eb2c966a09","status":"SUCCEEDED","blocking_count":0}
+  ],
+  "checks": {
+    "both_unit_commits_present": "passed",
+    "shared_base_revision": "passed",
+    "scope_separation": "passed",
+    "integration_diff": "passed",
+    "git_diff_check": "passed"
+  },
+  "publication": false,
+  "merge": false
+}

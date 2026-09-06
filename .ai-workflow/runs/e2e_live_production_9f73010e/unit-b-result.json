@@ -1,0 +1,11 @@
+{
+  "unit_id":"production-proof-b",
+  "run_id":"e2e_live_production_9f73010e",
+  "generation":1,
+  "base_revision":"7bba750911ac42537267cb6ceb84c4c678e08d73",
+  "status":"SUCCEEDED",
+  "commit":"2deece2ca896eebb8c168fc699e589eb2c966a09",
+  "tests":{"exact_content":"passed","prototype_identity_base":"passed","scope_escape":"passed","child_result_schema":"passed","artifact_sha256":"passed","git_diff_check":"passed"},
+  "local_review":{"reviewer":"Codex","reviewed_revision":"2deece2ca896eebb8c168fc699e589eb2c966a09","findings":[],"blocking_count":0,"disposition":"approved"},
+  "artifact_digest":"E991461AEC505FA246F8138AB40D6B7E6BE246CAFBC2C2EE3A5BA03D9102A544"
+}

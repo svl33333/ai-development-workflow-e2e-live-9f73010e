@@ -1,0 +1,40 @@
+---
+workflow_version: 1
+schema_version: 1
+adapter_version: 1
+orchestrator_id: null
+orchestrator_generation: 1
+orchestrator_status: ACTIVE
+project_id: e2e-live-product
+work_id: unassigned
+stage: prototype_intake
+status: ready
+agent: codex
+chatgpt_project: prototype
+artifacts: []
+base_revision: null
+current_revision: null
+next_action: create_concept_brief
+stop_reason: null
+revision: 1
+plan_review_iteration: 0
+qualifying_plan_review_iteration: 0
+review_history: []
+prototype_review_iteration: 0
+qualifying_prototype_review_iteration: 0
+prototype_model_confirmed: false
+prototype_review_conversation_id: null
+prototype_required_model: null
+prototype_actual_model: null
+prototype_model_user_confirmed: false
+issue_identity: null
+connection_binding: null
+conversation_registry: {}
+presentation_receipts: []
+active_external_operation: null
+review_context: {"planning_conversation_id":null,"active_plan_review_conversation_id":null,"active_plan_review_project_id":null,"active_plan_review_history_revision":0,"active_plan_review_non_resumable_reason":null,"replacement_history":[]}
+updated_at: 2026-09-06T01:19:56.820Z
+conversation: {"task_id":null,"iteration":0,"project_id":null,"project_url":null,"conversation_id":null,"conversation_url":null,"workspace":null,"role":null,"stage":null,"state":"INIT","last_message_id":null,"next_operation":null,"failure_reason":null,"sent_messages":[]}
+agent_state: {"agent":"codex","stage":"prototype_intake","status":"ready","started_at":"2026-09-06T01:19:56.820Z","updated_at":"2026-09-06T01:19:56.820Z","waiting_reason":null,"next_action":"create_concept_brief","error":null}
+---
+# AI workflow state

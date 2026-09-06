@@ -1,0 +1,44 @@
+{
+  "workflow_version": 1,
+  "project_id": "e2e-live-product",
+  "product_path": "C:\\Users\\yuyab\\Documents\\ChatGPT\\AI Development Workflow\\work\\e2e-live-product",
+  "status": "HUMAN_ACTION_REQUIRED",
+  "requested_projects": [
+    "prototype"
+  ],
+  "chatgpt_projects": {
+    "prototype": "AI Workflow Live E2E Prototype--9F73010E",
+    "production": "AI Workflow Live E2E Production--9F73010E"
+  },
+  "next_action": "Create the requested ChatGPT Project(s) with the exact generated name(s), then rerun onboarding or tell Codex they are ready.",
+  "managed_master": "C:\\Users\\yuyab\\Documents\\ChatGPT\\AI Development Workflow",
+  "added_files": [],
+  "conflicting_files": [
+    ".agents/skills/codex-plan-review-loop/SKILL.md",
+    ".agents/skills/independent-plan-review/SKILL.md",
+    ".agents/skills/pr-review/SKILL.md",
+    ".agents/skills/production-planning/SKILL.md",
+    ".agents/skills/prototype-design/SKILL.md",
+    ".agents/skills/prototype-evaluation/SKILL.md",
+    ".agents/skills/workflow-onboarding/SKILL.md",
+    ".ai-workflow/managed/child-task-result.schema.json",
+    ".ai-workflow/managed/execution-plan.schema.json",
+    ".ai-workflow/managed/prompts/c2c-independent-plan-review.md",
+    ".ai-workflow/managed/prompts/c2c-pr-review.md",
+    ".ai-workflow/managed/prompts/c2c-production-plan-refinement.md",
+    ".ai-workflow/managed/prompts/c2c-production-planning.md",
+    ".ai-workflow/managed/prompts/c2c-prototype-design.md",
+    ".ai-workflow/managed/prompts/c2c-prototype-evaluation.md",
+    ".ai-workflow/managed/templates/concept-brief.md",
+    ".ai-workflow/managed/templates/final-pr-body.md",
+    ".ai-workflow/managed/templates/implementation-plan.md",
+    ".ai-workflow/managed/templates/local-pr-draft.md",
+    ".ai-workflow/managed/templates/project-config.json",
+    ".ai-workflow/managed/templates/prototype-handoff.md",
+    ".ai-workflow/managed/templates/review-record.md",
+    ".ai-workflow/managed/templates/state.md",
+    ".ai-workflow/managed/workflow-state.schema.json",
+    ".ai-workflow/managed/workflow.json"
+  ],
+  "updated_at": "2026-09-06T02:23:05.972Z"
+}

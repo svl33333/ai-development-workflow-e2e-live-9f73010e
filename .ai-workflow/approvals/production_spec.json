@@ -1,0 +1,10 @@
+{
+  "kind": "production_spec",
+  "approved_by": "human",
+  "project_id": "e2e-live-product",
+  "work_id": "e2e_live_production_9f73010e",
+  "artifact": ".ai-workflow/artifacts/e2e-live-product-production-spec-e2e_live_production_9f73010e-v1.md",
+  "artifact_sha256": "41623F0C6961A3956D975FF46489D221963846B1383F2CF39D4F460F833A70EB",
+  "valid": true,
+  "approved_at": "2026-09-06T03:45:00.000Z"
+}

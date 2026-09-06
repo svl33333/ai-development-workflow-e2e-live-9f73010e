@@ -1,0 +1,16 @@
+{
+  "approved_by": "human",
+  "approval_type": "production_implementation_plan",
+  "work_id": "e2e_live_production_9f73010e",
+  "plan_path": ".ai-workflow/artifacts/e2e-live-product-implementation-plan-e2e_live_production_9f73010e-v1.md",
+  "plan_sha256": "D855141676A6F8E711E01EEE35F461B021E277B6B5D78CBCBB1DDB50B8E6E3E0",
+  "manifest_path": ".ai-workflow/runs/e2e-live-product-production-execution-plan-e2e_live_production_9f73010e-v1.json",
+  "manifest_sha256": "F321D4609D201766C97BCDD9992E9B9D4D46C12FECF7D5FD335817B0C513503D",
+  "approval_digest": "66D53E0CDBF5D37E45702985CA539E6296A631961C571241A960BF5F467E2992",
+  "review_path": ".ai-workflow/reviews/e2e-live-product-production-plan-round-6.md",
+  "review_disposition": "APPROVE",
+  "qualifying_plan_review_iteration": 4,
+  "planning_base_revision": "52a8270",
+  "publication_authorized": false,
+  "merge_authorized": false
+}

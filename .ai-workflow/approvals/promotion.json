@@ -1,0 +1,11 @@
+{
+  "kind": "promotion",
+  "approved_by": "human",
+  "project_id": "e2e-live-product",
+  "work_id": "e2e_live_production_9f73010e",
+  "prototype_task_id": "e2e_live_9f73010e",
+  "prototype_base_revision": "52a8270",
+  "prototype_handoff": ".ai-workflow/artifacts/e2e-live-product-prototype-handoff-e2e_live_production_9f73010e-v1.md",
+  "valid": true,
+  "approved_at": "2026-09-06T03:30:00.000Z"
+}

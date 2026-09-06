@@ -1,0 +1,10 @@
+{
+  "kind": "production_issue",
+  "approved_by": "human",
+  "project_id": "e2e-live-product",
+  "work_id": "e2e_live_production_9f73010e",
+  "artifact": ".ai-workflow/artifacts/e2e-live-product-production-issue-e2e_live_production_9f73010e-v1.md",
+  "artifact_sha256": "658E792CB5D28B22951F835B6332D59CECC5880CC4019CF87F148CC8415153FF",
+  "valid": true,
+  "approved_at": "2026-09-06T04:00:00.000Z"
+}
